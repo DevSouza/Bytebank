@@ -36,9 +36,8 @@ Na Formação Flutter, você vai aprender a construir Apps do zero. Desde entend
 - Adicione um progresso enquanto a requisição web é realizada
 
 ## Testes de unidade e Widget com mocks: Boas práticas no Flutter
--- Conheça o ambiente de testes do Flutter e suas categorias.
--- Como criar testes em um projeto no Flutter.
--- Crie testes de unidade e de Widget.
--- Aprenda a criar testes de fluxo.
--- Simule integrações com mock objects.
-
+- Conheça o ambiente de testes do Flutter e suas categorias.
+- Como criar testes em um projeto no Flutter.
+- Crie testes de unidade e de Widget.
+- Aprenda a criar testes de fluxo.
+- Simule integrações com mock objects.
